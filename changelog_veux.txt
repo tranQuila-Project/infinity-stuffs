@@ -1,3 +1,6 @@
 # Device Changelogs
 
-Initial Test :)
+Date - 16-02-2025
+- Initial OTA Support
+- Added High Touch Sampling Rate Along with touch boost
+- Fixed AOD & DOZE Issues
