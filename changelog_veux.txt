@@ -1,5 +1,11 @@
 # Device Changelogs
 
+Date - 23-02-2025
+- Synced on Latest Source
+- Add High Brightness Mode Support
+- Uprev Leica 4.5 -> 4.7
+- Update Some Display blobs
+
 Date - 16-02-2025
 - Initial OTA Support
 - Added High Touch Sampling Rate Along with touch boost
