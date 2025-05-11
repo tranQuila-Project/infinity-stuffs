@@ -1,5 +1,11 @@
 # Device Changelogs
 
+Date - 11-05-2025
+- Merged Latest InfinityX 2.8 Source
+- Fixed Miscellaneous Bugs regarding audio & Kernel
+- Shift to Nebula Kernel
+- Miscellaneous Improvement and Stuffs
+
 Date - 23-02-2025
 - Synced on Latest Source
 - Add High Brightness Mode Support
