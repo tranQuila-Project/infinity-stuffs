@@ -1,5 +1,12 @@
 # Device Changelogs
 
+Date - 18-05-2025
+- Bring back **Charging Control.**
+- Added New parts implementation from sm8450
+- Added **Gamebar v4.0**
+- Added **Per-app Thermal Profile**
+- Miscellaneous tree cleanup and changes
+
 Date - 11-05-2025
 - Merged Latest InfinityX 2.8 Source
 - Fixed Miscellaneous Bugs regarding audio & Kernel
