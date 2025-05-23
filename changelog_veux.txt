@@ -1,5 +1,11 @@
 # Device Changelogs
 
+Date - 23-05-2025
+- Synced to Latest Source Changes
+- Synced to Latest Kernel Changes
+- Added Battery Health Overlay Tiles in Battery Tab
+- Miscellaneous Improvements
+
 Date - 18-05-2025
 - Bring back **Charging Control.**
 - Added New parts implementation from sm8450
