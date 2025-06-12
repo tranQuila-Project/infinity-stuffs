@@ -1,5 +1,10 @@
 # Device Changelogs
 
+Date - 12-06-2025
+- Synced to Latest 2.9 Source Changes
+- Synced to Latest Kernel Changes
+- Miscellaneous Improvements
+
 Date - 07-06-2025
 - Synced to Latest 2.9 Source Changes
 - Synced to Latest Kernel Changes
