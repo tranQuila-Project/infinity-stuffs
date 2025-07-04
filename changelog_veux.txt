@@ -1,5 +1,12 @@
 # Device Changelogs
 
+Date - 04-07-2025
+- Synced to Latest 2.9 Source Changes
+- Synced to Latest Kernel Changes
+- Implemented DeviceAsWebcam Feature
+- Fixed Audio Bugs Regarding Alarms & Ringtone
+- Miscellaneous Improvements
+
 Date - 12-06-2025
 - Synced to Latest 2.9 Source Changes
 - Synced to Latest Kernel Changes
