@@ -1,11 +1,11 @@
 {
 	"response": [
 		{
-			"filename": "Project_Infinity-X-3.0-veux-20250718-2212-GAPPS-COMMUNITY.zip",
-			"download": "https://github.com/MrTopia/device_xiaomi_veux/releases/download/Project-InfinityX-3.0-180735/Project_Infinity-X-3.0-veux-20250718-2212-GAPPS-COMMUNITY.zip",
-			"timestamp": 1752876768,
-			"md5": "ec7cc01bcb1da97e7c8777d2bd02b610",
-			"size": 2042873222,
+			"filename": "Project_Infinity-X-3.0-veux-20250801-2305-GAPPS-COMMUNTIY.zip",
+			"download": "https://github.com/MrTopia/device_xiaomi_veux/releases/download/Project-InfinityX-3.0-010835/Project_Infinity-X-3.0-veux-20250801-2305-GAPPS-COMMUNITY.zip",
+			"timestamp": 1754089525,
+			"md5": "91f56421cb52c86744e19a1f525d20d5",
+			"size": 2041551396,
 			"version": "3.0"
 		}
 	]

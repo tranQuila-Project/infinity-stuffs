@@ -1,5 +1,11 @@
 # Device Changelogs
 
+Date - 02-08-2025
+- Synced to Latest 3.0 Source Changes
+- Synced to Latest Kernel Changes
+- Nuked Per-App Thermal Profiles for now... Will be added later
+- Miscellaneous Improvements
+
 Date - 18-07-2025
 - Synced to Latest 3.0 Source Changes
 - Synced to Latest Kernel Changes
