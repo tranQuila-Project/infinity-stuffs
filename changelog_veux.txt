@@ -1,5 +1,11 @@
 # Device Changelogs
 
+Date - 20-08-2025
+- Synced to [Latest 3.1 Source Changes](https://t.me/ProjectInfinityX/1453)
+- Synced to Latest Kernel Changes
+- Fixed Thermal Profile Services
+- Miscellaneous Improvements
+
 Date - 02-08-2025
 - Synced to Latest 3.0 Source Changes
 - Synced to Latest Kernel Changes
