@@ -1,5 +1,11 @@
 # Device Changelogs
 
+Date - 10-06-2026
+- Synced to Latest 3.11 Source
+- Update telephony package list to LA.QSSI.12.0.r1-05600-qssi.0
+- Set default the Bluetooth class of device
+- Miscellaneous Improvements
+
 Date - 07-05-2026
 - Synced to Latest 3.10 Source
 - Add per-device Dolby state memory for LunarisDolby
