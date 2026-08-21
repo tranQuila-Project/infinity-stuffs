@@ -1,5 +1,19 @@
 # Device Changelogs
 
+Date - 21-08-2026
+- Synced to Latest 3.12 Source
+- veux: Set FCM level to 7
+- veux: Override kernel BPF version
+- veux: Enable CameraX extensions support
+- veux: init: Use the correct node for clkscale
+- veux: init.qcom.rc: Tuning UFS clkgate and ah8 during boot time
+- fixup! veux: Clean up unused blobs
+- dolby: Implement AutoEQ headphone correction profiles
+- dolby: Implement swipe navigation between main screens
+- dolby: Use CLICK haptic instead of DOUBLE_CLICK
+- dolby: Enable R8 optimization
+- Miscellaneous Improvements
+
 Date - 10-06-2026
 - Synced to Latest 3.11 Source
 - Update telephony package list to LA.QSSI.12.0.r1-05600-qssi.0
